@@ -22,7 +22,7 @@ Data Analytics Portfolio
   <div class="header">
     <h1>Nadia Ransome</h1>
     <p>Aspiring <strong>Data Analyst</strong> & <strong>Business Analyst</strong></p>
-    <p>Learning Excel • SQL • Power BI</p>
+    <p> Excel • SQL • Power BI</p>
     <p>Email: <strong>your-ransomealuola@gmail.com</strong></p>
   </div>
 
