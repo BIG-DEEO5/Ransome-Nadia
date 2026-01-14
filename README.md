@@ -21,7 +21,7 @@ Data Analytics Portfolio
   <!-- HEADER -->
   <div class="header">
     <h1>Nadia Ransome</h1>
-    <p>Aspiring <strong>Data Analyst</strong> & <strong>Business Analyst</strong></p>
+    <p> <strong>Data Analyst</strong> & <strong>Business Analyst</strong></p>
     <p>Excel • SQL • Power BI</p>
     <p>Email: <strong>your-ransomealuola@gmail.com</strong></p>
   </div>
@@ -36,7 +36,7 @@ Data Analytics Portfolio
   <!-- ABOUT -->
   <div id="about">
     <h2>About Me</h2>
-    <p>Hi! I’m Nadia — a beginner Data & Business Analyst building skills in Excel, SQL, and Power BI. On this page, you’ll find projects I’ve completed as I learn practical data analysis and storytelling with data.</p>
+    <p>Hi! I’m Nadia — a Data & Business Analyst building skills in Excel, SQL, and Power BI. On this page, you’ll find projects I’ve completed as I learn practical data analysis and storytelling with data.</p>
   </div>
 
   <!-- PROJECTS -->
