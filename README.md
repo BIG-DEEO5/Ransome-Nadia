@@ -46,7 +46,7 @@ Data Analytics Portfolio
     <div class="project">
   <h3>3. Power BI Mini Dashboard</h3>
   <p>A simple Power BI dashboard showing key business insights using visuals and filters.</p>
-  <p><a href="https://github.com/big-deeo5/PowerBI-Dashboard">View on GitHub</a></p>
+  <p><a href=https://github.com/BIG-DEEO5/POWER-BI-DASHBOARDS>View on GitHub</a></p>
 </div>
 
   </div>
