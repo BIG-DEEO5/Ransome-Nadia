@@ -44,22 +44,10 @@ Data Analytics Portfolio
     <h2>Projects</h2>
 
     <div class="project">
-      <h3>1. Excel Data Cleaning Project</h3>
-      <p>A beginner project where I cleaned and analyzed a dataset using Excel.</p>
-      <p><a href="https://github.com/big-deeo5/Excel-Data-Cleaning">View on GitHub</a></p>
-    </div>
-
-    <div class="project">
-      <h3>2. SQL Query Practice</h3>
-      <p>Basic SQL challenges with real questions and answers.</p>
-      <p><a href="https://github.com/big-deeo5/SQL-Practice">View on GitHub</a></p>
-    </div>
-
-    <div class="project">
-      <h3>3. Power BI Mini Dashboard</h3>
-      <p>A simple Power BI report showing key insights from a dataset.</p>
-      <p><a href="https://github.com/big-deeo5/PowerBI-Dashboard">View on GitHub</a></p>
-    </div>
+  <h3>3. Power BI Mini Dashboard</h3>
+  <p>A simple Power BI dashboard showing key business insights using visuals and filters.</p>
+  <p><a href="https://github.com/big-deeo5/PowerBI-Dashboard">View on GitHub</a></p>
+</div>
 
   </div>
 
